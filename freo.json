@@ -1,0 +1,8 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.67480326031445,19.974471469645543]},"properties":{"uuid":608001,"usid":608,"urid":6,"urcne":"Louangphabang","uscne":"Phonxay District","uucne":"B. Phackhok","longitude":102.675,"latitude":19.974}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.72329973457042,19.973254454922582]},"properties":{"uuid":608003,"usid":608,"urid":6,"urcne":"Louangphabang","uscne":"Phonxay District","uucne":"B. Phackbong","longitude":102.723,"latitude":19.973}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.91220399040309,19.936107159720862]},"properties":{"uuid":608050,"usid":608,"urid":6,"urcne":"Louangphabang","uscne":"Phonxay District","uucne":"B. Phonthong","longitude":102.912,"latitude":19.936}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.88364944004395,19.934347890157408]},"properties":{"uuid":608051,"usid":608,"urid":6,"urcne":"Louangphabang","uscne":"Phonxay District","uucne":"B. Na ngoy","longitude":102.884,"latitude":19.934}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.5273290410555,19.992144567636924]},"properties":{"uuid":608070,"usid":608,"urid":6,"urcne":"Louangphabang","uscne":"Phonxay District","uucne":"B. Phatoubtai","longitude":102.527,"latitude":19.992}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.43268595016188,19.948114660308303]},"properties":{"uuid":608089,"usid":608,"urid":6,"urcne":"Louangphabang","uscne":"Phonxay District","uucne":"B. Nambor","longitude":102.433,"latitude":19.948}}
+]}
